@@ -1,0 +1,15 @@
+D:\TruyenDulieu\lop1\bin\Debug\lop1.exe.config
+D:\TruyenDulieu\lop1\bin\Debug\lop1.exe
+D:\TruyenDulieu\lop1\bin\Debug\lop1.pdb
+D:\TruyenDulieu\lop1\obj\Debug\lop1.csproj.AssemblyReference.cache
+D:\TruyenDulieu\lop1\obj\Debug\lop1.Form1.resources
+D:\TruyenDulieu\lop1\obj\Debug\lop1.Properties.Resources.resources
+D:\TruyenDulieu\lop1\obj\Debug\lop1.csproj.GenerateResource.cache
+D:\TruyenDulieu\lop1\obj\Debug\lop1.csproj.CoreCompileInputs.cache
+D:\TruyenDulieu\lop1\obj\Debug\lop1.exe
+D:\TruyenDulieu\lop1\obj\Debug\lop1.pdb
+D:\TruyenDulieu\lop1\obj\Debug\lop1.lab1.resources
+D:\TruyenDulieu\lop1\obj\Debug\lop1.Form2.resources
+D:\TruyenDulieu\lop1\obj\Debug\lop1.Form3.resources
+D:\TruyenDulieu\lop1\obj\Debug\lop1.Form4.resources
+D:\TruyenDulieu\lop1\obj\Debug\lop1.Cuuso.resources
