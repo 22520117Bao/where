@@ -1,0 +1,7 @@
+D:\TruyenDulieu\bai10\bin\Debug\bai10.exe.config
+D:\TruyenDulieu\bai10\bin\Debug\bai10.exe
+D:\TruyenDulieu\bai10\bin\Debug\bai10.pdb
+D:\TruyenDulieu\bai10\obj\Debug\bai10.csproj.AssemblyReference.cache
+D:\TruyenDulieu\bai10\obj\Debug\bai10.csproj.CoreCompileInputs.cache
+D:\TruyenDulieu\bai10\obj\Debug\bai10.exe
+D:\TruyenDulieu\bai10\obj\Debug\bai10.pdb
